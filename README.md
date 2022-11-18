@@ -53,7 +53,7 @@ Country = "🇮🇳"
 
 
 <details>
-<summary>⠂Tamannadas'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
+<summary>⠂Tamanna'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
 <h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬⠐
   <br>
   <br>
